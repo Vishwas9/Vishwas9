@@ -37,7 +37,7 @@ Right now, I am dedicated to deep-diving into advanced cloud data architectures 
 ---
 
 ## 📫 Connect with me:
-- **LinkedIn:** linkedin.com/in/vishwas-gangaraju-1169901b3
+- **LinkedIn:** https://www.linkedin.com/in/vishwas-gangaraju-1169901b3/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0jQuIS3uQ82sywaUFca1%2BQ%3D%3D
 - **Email:** vishwasgangaraju09@gmail.com
 
 Identified a pipeline bottleneck or want to discuss modern data architecture? Let's connect!
