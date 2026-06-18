@@ -24,7 +24,6 @@ I am a **Data Engineer** specializing in building scalable, efficient ETL/ELT pi
   - Implementing **Schema Evolution** handling to ensure pipeline stability against shifting source data.
   - Enforcing data quality constraints to separate corrupted records during the Silver cleaning phase.
 
-*(More projects focused on cloud data warehousing and advanced SQL data modeling coming soon.)*
 
 ---
 
